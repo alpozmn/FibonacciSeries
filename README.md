@@ -1,0 +1,1 @@
+Bu program, ilk n Fibonacci sayısını hesaplar ve ekrana yazdırır. fibonacci() metodu, kendisine verilen pozitif bir tamsayı için Fibonacci serisinin değerini hesaplamak için recursive olarak kullanılır. Bu metot, Fibonacci serisindeki her bir terimi bulmak için önceki iki terimi kullanır.
